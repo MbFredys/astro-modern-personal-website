@@ -11,7 +11,7 @@ Y aunque todavía parece un tema de ciencia ficción, los avances en la tecnolog
 
 Pues comencemos explicando que son las ICM. Estos son dispositivos que permiten a los usuarios controlar objetos con la mente, por lo que sugiere que también podrían ser utilizados para la comunicación "telepática".
 
-Neuralink, fundada por el empresario Elon Musk en 2016, es de las empresas lideres en la investigación en este campo. Actualmente están trabajando en el desarrollo de tecnologías de ICM capaces de conectar directamente el cerebro humano a una computadora, lo que podría extensderse al control de tod tipo de dispositivos electrónicos.
+Neuralink, fundada por el empresario Elon Musk en 2016, es de las empresas lideres en la investigación en este campo. Actualmente están trabajando en el desarrollo de tecnologías de ICM capaces de conectar directamente el cerebro humano a una computadora, lo que podría extenderse al control de todo tipo de dispositivos electrónicos.
 
 Y no es solo Neuralink, otras empresas y organizaciones también están trabajando en el desarrollo de tecnologías de ICM. La Agencia de Proyectos de Investigación Avanzados de Defensa (DARPA) ha financiado proyectos de investigación para el control de prótesis robóticas mediante la lectura de señales cerebrales.
 
