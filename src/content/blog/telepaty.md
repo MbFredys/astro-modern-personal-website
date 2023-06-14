@@ -17,7 +17,7 @@ Y no es solo Neuralink, otras empresas y organizaciones también están trabajan
 
 En un estudio publicado en la revista Nature en 2020, un equipo de investigadores de la Universidad de California en San Francisco utilizó una tecnología de ICM para permitir que una persona con parálisis moviera un cursor en una pantalla de ordenador utilizando solo su mente.
 
-Ejemplos como estos hay muchos, te invito a que busques más, internet es una la mejor biblioteca del mundo cuando sabes que buscar.
+Ejemplos como estos hay muchos, te invito a que busques más, internet es la mejor biblioteca del mundo cuando sabes que buscar.
 
 Aunque todavía hay muchos desafíos por superar, los avances en estas tecnologías están marcando un precedente, que podría hacer realidad esta comunicación telepática. ¿Te imaginas poder hablar con tus amigos sin necesidad de utilizar palabras? ¡Sería como tener un superpoder!
 
