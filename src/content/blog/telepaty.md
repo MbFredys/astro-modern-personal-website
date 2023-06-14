@@ -1,6 +1,6 @@
 ---
 title: "¿Te imaginas poder comunicarte telepáticamente?"
-description: "Los avances en la tecnología de las interfaces cerebro-máquina (ICM) demuestran que podría ser posible en un futuro la comunicción telepática."
+description: "Los avances en la tecnología de las interfaces cerebro-máquina (ICM) demuestran que podría ser posible en un futuro la comunición telepática."
 pubDate: "Apr 10 2023"
 heroImage: "/blog_imag/telepaty.jpg"
 ---
