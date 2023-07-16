@@ -15,7 +15,7 @@ const last_posts = posts.slice(0, 3);
     <div class="pb-12 mt-5">
       <div class="text-xl py-1">Hello fellow 👋</div>
       <div class="text-5xl font-bold">I'm Fredys Matos Borges</div>
-      <div class="text-3xl py-3 font-bold">Automation Control Engineer</div>
+      <div class="text-3xl py-3 font-bold">Automation Control Engineer & Freelancer</div>
       <div class="py-2">
         <text class="text-lg">
          I'm always looking for new challenges and opportunities to grow personally and professionally, and I'm confident that I can add value to any project in which I participate. My goal is to develop innovative solutions that solve everyday problems and make people's lives easier in different areas.
@@ -33,23 +33,34 @@ const last_posts = posts.slice(0, 3);
     </div>
 
     <HorizontalCard
+      title="LEDs Controller"
+      img="https://github.com/MbFredys/PCB-DESIGNS/blob/bfdcfd795e4f6f67ab34aca49700e2645583c397/PCB-Led-Controller/Release/led-controller2.png"
+      desc="This is another PCB design exercise I did. It's a LEDs controller with the following features: - Allows the regulation of LED brightness. - Allows the choice of color if it's an RGB LED. -Allows a supply voltage of 100-240V AC. - It has 12V DC / 5A and 24V DC / 2.5A outputs. - It has WiFi and Bluetooth communication by ESP32 Microcontroller. - And more."
+      url="https://github.com/MbFredys/PCB-DESIGNS/tree/bfdcfd795e4f6f67ab34aca49700e2645583c397/PCB-Led-Controller"
+      badge="GitHub"
+    />
+
+    <HorizontalCard
       title="Temperature Controller"
       img="/proj_imag/temperatura.webp"
       desc="This is a PCB design exercise I did for a temperature controller with the following features: - Shows the current temperature value. - Shows the desired temperature value. - It has two buttons to raise and lower the temperature. - Allows a supply voltage of 100-240V AC. - It has Bluetooth communication. - Allows entry of thermocouple and PT100 type sensors."
       url="https://github.com/MbFredys/PCB-DESIGNS/tree/87af53d90a7ce1e40a296f422cfcc161bc05b55e/PCB-Temperature-Controller"
       badge="GitHub"
     />
-    <div class="divider my-0"></div>
-    <HorizontalCard
-    title="TISA | Smart Home"
-    img="/tisa.webp"
-    desc="A project by technicians and specialists in the field that provides the necessary services to transform our clients' homes, making them safer and more comfortable."
-    url="https://tisahome.carrd.co"
-    />
 
+    
   <div>
     <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from Blog</div>
   </div>
+
+  <div class="divider my-0"></div>
+  <HorizontalCard
+  title="Home Automation: el futuro de las casas [ES-EN]"
+  img="https://images.ecency.com/DQmfA5LVw3AgzEVdmA8grWevx2YjYGFUXdA1nYmFNHLMY9f/oig.tvqpsuukocxvzdjjzwh_"
+  desc="¡Domótica! ¿Ya habías oído hablar de ella? Es una solución, casi mágica, diría mi abuela, para muchos de los problemas del hogar. Si eres de los que les gusta disfrutar del tiempo en casa para compartir con la familia, olvidándote de las tareas repetitivas y tediosas, esta es tu solución."
+  url="https://peakd.com/hive-163521/@mbfreddys/home-automation-el-futuro-de"
+  />
+
 
   {
     last_posts.map((post) => (
@@ -64,13 +75,6 @@ const last_posts = posts.slice(0, 3);
     ))
   }
 
-    <div class="divider my-0"></div>
-    <HorizontalCard
-    title="Home Automation: el futuro de las casas [ES-EN]"
-    img="https://images.ecency.com/DQmfA5LVw3AgzEVdmA8grWevx2YjYGFUXdA1nYmFNHLMY9f/oig.tvqpsuukocxvzdjjzwh_"
-    desc="¡Domótica! ¿Ya habías oído hablar de ella? Es una solución, casi mágica, diría mi abuela, para muchos de los problemas del hogar. Si eres de los que les gusta disfrutar del tiempo en casa para compartir con la familia, olvidándote de las tareas repetitivas y tediosas, esta es tu solución."
-    url="https://peakd.com/hive-163521/@mbfreddys/home-automation-el-futuro-de"
-    />
-
+    
 </BaseLayout>
     
