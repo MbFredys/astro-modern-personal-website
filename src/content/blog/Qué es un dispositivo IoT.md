@@ -1,11 +1,11 @@
 ---
 title: "¿Qué es un dispositivo IoT?"
-description: "Los avances en la tecnología de las interfaces cerebro-máquina (ICM) demuestran que podría ser posible en un futuro la comunición telepática."
+description: "IoT son las siglas de Internet of Things. Básicamente se refiere a la conexión de dispositivos cotidianos a Internet."
 pubDate: "Oct 23 2023"
-heroImage: "/blog_imag/telepaty.webp"
+heroImage: "/blog_imag/IoT-01.webp"
 ---
 
-¿Qué es eso del Internet de las Cosas? Frase que he leído y oído mucho por ahí. Hoy precisamente lo leí en un comentario de Twitter o ¿debería decir X? Bueno, volviendo al tema. Debido a esto me dio por hacer este pequeño pero instructivo artículo y dejarlo aquí, en mi web personal. Este es un tema que lleva tiempo existiendo, pero se ha vuelto muy popular últimamente, “el Internet de las Cosas”, también conocido como IoT por sus siglas en inglés.
+¿Qué es eso del Internet de las Cosas? Frase que he leído y oído mucho por ahí. Hoy precisamente lo leí en un comentario de Twitter o ¿debería decir X? Bueno, volviendo al tema. Por estas cosas es que me decidí por hacer este, pequeño pero instructivo artículo y dejarlo aquí, en mi web personal. Este es un tema que lleva tiempo existiendo, pero se ha vuelto muy popular últimamente, “el Internet de las Cosas”, también conocido como IoT por sus siglas en inglés.
 
 IoT son las siglas de Internet of Things. Básicamente se refiere a la conexión de dispositivos cotidianos a Internet. Sí, esos aparatos que usamos en nuestra vida diaria ahora pueden conectarse a la red para hacer más cosas.
 
